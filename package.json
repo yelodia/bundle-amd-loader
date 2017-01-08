@@ -1,0 +1,14 @@
+{
+  "name": "bundle-amd-loader",
+  "version": "0.1.0",
+  "author": "@yelodia",
+  "description": "Synchronus loading of bundles like RequireJS based on bundle loader module for webpack by Tobias Koppers @sokra",
+  "dependencies": {
+	"underscore": "1.8.3",
+    "loader-utils": "0.2.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webpack/bundle-amd-loader.git"
+  }
+}
